@@ -1,5 +1,5 @@
 # FogML-Zephyr-FOTA
-The application is the result of research conducted jointly with the [AVSystem](https://www.avsystem.com/) company. It demonstrated how the LwM2M protocol may support TinyMLOps on resource-constrained devices. The source code supplements the research paper submitted to the TinyML symposium. More details will be provided at a convenient time.
+The application is the result of research conducted jointly with the [AVSystem](https://www.avsystem.com/). It demonstrated how the LwM2M protocol may support TinyMLOps on resource-constrained devices. The source code supplements the research paper submitted to the TinyML symposium. More details will be provided at a convenient time.
 
 Code of the application is based on https://github.com/AVSystem/Anjay-zephyr-client/tree/master/demo.
 
